@@ -1,0 +1,8 @@
+Model,Training Accuracy,Test Accuracy,Loss
+Decision Tree,1.0,1.0,0.0
+Random Forest,1.0,1.0,0.0
+Bagging,1.0,1.0,0.0
+AdaBoost,1.0,1.0,0.0
+Gradient Boosting,1.0,1.0,0.0
+ANN,1.0,1.0,0.0
+XGBoost,1.0,1.0,0.0
